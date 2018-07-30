@@ -51,9 +51,7 @@
   },
   "dependencies": {
     "iconv-lite": "^0.4.24",
-    "rxjs-stream": "^3.0.1"
-  },
-  "peerDependencies": {
+    "rxjs-stream": "^3.0.1",
     "rxjs": "^6.0.0"
   },
   "nyc": {
